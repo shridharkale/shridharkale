@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Campus%20Placements-22C55E?style=for-the-badge"/>
+  
 </p>
 
 ---
@@ -108,5 +108,5 @@ A Flask + MySQL analytics dashboard for tracking and visualizing campus energy u
 ---
 
 <p align="center">
-  <i>CGPA: ~8.39 · USN: 1OX24IS097 · The Oxford College of Engineering, Bangalore</i>
+  <i>CGPA: ~8.57 · USN: 1OX24IS097 · The Oxford College of Engineering, Bangalore</i>
 </p>
