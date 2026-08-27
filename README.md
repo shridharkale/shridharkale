@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Shridhar Kale 👋</h1>
 
 <p align="center">
-  <b>Information Science & Engineering · TOCE Bangalore · Class of 2026</b><br/>
-  Aspiring Data Analyst · Full-Stack Builder · Hackathon Winner
+  <b>Information Science & Engineering · TOCE Bangalore · Class of 2028</b><br/>
+  Aspiring Data Analyst · Full-Stack Builder · Loves to build cool stuff
 </p>
 
 <p align="center">
